@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Dashboard (Power BI)
 
-This project presents an interactive Power BI dashboard analyzing over **50,000 pizza orders** to uncover key sales insights across time, size, category, and pizza type. It is designed to support business decisions in operations, marketing, and inventory.
+This project presents an **interactive Power BI dashboard** analyzing over **50,000 pizza orders** from a fictional pizza chain. The dashboard provides **deep sales insights** by hour, pizza type, size, and category to support data-driven decision-making in marketing, operations, and inventory planning.
 
 ---
 
@@ -15,24 +15,57 @@ This project presents an interactive Power BI dashboard analyzing over **50,000 
 
 ---
 
-## 📊 Key Insights
+## 📊 Page-Wise Dashboard Breakdown
 
-- 📈 **Peak Sales Hours:** 12 PM – 1 PM & 7 PM – 8 PM  
-- 🗓️ **Monthly Trends:** Consistent growth with Q4 being the highest revenue-generating quarter  
-- 🥇 **Top-Selling Pizza (Qty):** The Classic Deluxe Pizza  
-- 💰 **Highest Revenue Pizza:** The Thai Chicken Pizza  
-- 📏 **Most Popular Size:** Large (L)  
-- 🍕 **Category Leaders:** Chicken and Veggie pizzas
+### 🟩 **Page 1 – Executive Overview**
+
+This page offers a **high-level summary** and **KPI insights** for business managers.
+
+#### Key Visuals:
+- **Hourly Pizza Sales:** Identifies peak operational hours (1 PM & 7 PM)
+- **Monthly Sales Trend:** Shows seasonality and Q4 sales boost
+- **Highest-Selling Pizza Categories:** Chicken and Classic lead in quantity
+- **Order Size Distribution:** Most orders are Large (L), then Medium (M)
+- **KPI Cards:** Instant view of total sales, orders, customers, and AOV
+
+#### Business Value:
+- Supports **staffing strategy**, **daily prep planning**, and **marketing push timing**
 
 ---
 
-## 📁 Dashboard Features
+### 🟦 **Page 2 – Deep-Dive Analysis**
 
-- **Hourly Sales Trends**
-- **Monthly & Quarterly Revenue**
-- **Sales by Pizza Size & Category**
-- **Top-Selling Pizzas by Quantity & Revenue**
-- **Customer and Order Summary**
+This page explores pizza-level and category-level sales distribution over time.
+
+#### Key Visuals:
+- **Top Pizza Names by Quantity & Revenue:** Classic Deluxe sells most; Thai Chicken earns the most
+- **Sales by Pizza Category Over Time:** Chicken and Classic consistently perform best throughout the year
+- **Quarterly Sales Summary:** Q4 brings in the most revenue (seasonal demand)
+- **Sales by Pizza Size (Revenue-Wise):** Large (L) pizzas are highest earners; XL and XXL underperform
+
+#### Business Value:
+- Helps **menu optimization**, **seasonal campaign design**, and **bundle pricing decisions**
+
+---
+
+## 📈 Key Insights Summary
+
+- ⏰ **Peak Sales Hours:** 1 PM & 7 PM
+- 🗓️ **Strongest Quarter:** Q4
+- 🧀 **Most Ordered Pizza:** Classic Deluxe Pizza
+- 💰 **Highest Revenue Pizza:** Thai Chicken Pizza
+- 📏 **Best-Selling Size:** Large (L)
+- 🍕 **Leading Categories:** Chicken and Classic
+
+---
+
+## 🧩 Dashboard Features
+
+- KPI Card Visuals  
+- Dynamic Monthly + Quarterly Trends  
+- Product-level Revenue vs Quantity Analysis  
+- Size & Category Breakdown by Sales and Quantity  
+- Clean, minimalist layout optimized for business use
 
 ---
 
@@ -45,21 +78,30 @@ This project presents an interactive Power BI dashboard analyzing over **50,000 
 
 ## 🚀 How to View
 
-1. Open the `.pbix` file in **Power BI Desktop**  
-2. Explore the report tabs and interact with filters & visuals
+1. Download the `.pbix` file from this repository  
+2. Open it in **Power BI Desktop**  
+3. Interact with slicers, filters, and visual tabs to explore insights
 
 ---
 
-## 💼 Use Cases
+## 💼 Business Use Cases
 
-- Sales strategy optimization  
-- Demand forecasting  
-- Marketing focus areas  
-- Inventory and supply planning
+- 🔍 **Sales performance evaluation**
+- 📦 **Inventory planning by pizza size/category**
+- 🧠 **Menu pricing decisions**
+- 🎯 **Customer-centric promotional timing**
+- 📊 **Executive decision support with visual KPIs**
 
 ---
 
-## 📌 Author
+## 📄 Supporting Documents
+
+- 📘 [Pizza_Sales_Dashboard_Insights.pdf](Pizza_Sales_Dashboard_Insights.pdf)  
+   *(Detailed explanation of each chart with business interpretation)*
+
+---
+
+## 👤 Author
 
 **Shreyas Raut**  
 [LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
@@ -68,4 +110,5 @@ This project presents an interactive Power BI dashboard analyzing over **50,000 
 
 ## 📄 License
 
-MIT License – free to use and adapt.
+MIT License – free to use, modify, and share.
+
